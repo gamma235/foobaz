@@ -1,14 +1,14 @@
 # foobaz
 
-A Clojure library designed to ... well, that part is up to you.
+A simple command line implementation of FooBaz
 
 ## Usage
 
-FIXME
+If you have Leiningen installed, run from source by executing `lein run`, otherwise run jar file
+from the project root at the command line with: `java -jar target/foobaz-0.1.0-SNAPSHOT-standalone.jar`
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License
